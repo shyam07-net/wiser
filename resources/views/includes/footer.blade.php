@@ -54,7 +54,7 @@ if(reciever==data.recieverId)
                 <div class="col-lg-6 text-right">
                     <span class="mr-1">
                         Copyright
-                        <script>document.write(new Date().getFullYear())</script>© <a href="#" class="">The Wise Owl</a>
+                        <script>document.write(new Date().getFullYear())</script> © <a href="#" class="">electrogets tech pvt limited </a>
                         All Rights Reserved.
                     </span>
                 </div>

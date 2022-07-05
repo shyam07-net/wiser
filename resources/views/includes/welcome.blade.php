@@ -16,83 +16,12 @@
                     <div class="col-md-12 mb-4 mt-1">
                         <div class="d-flex flex-wrap justify-content-between align-items-center">
                             <h4 class="font-weight-bold">Dashboard </h4>
-                            <!--<div class="form-group mb-0 vanila-daterangepicker d-flex flex-row">-->
-                            <!--    <a href="{{url('/personalnotes')}}"><button type="button" class="btn btn-primary mt-2 mr-2">-->
-                            <!--    Personal Notes-->
-                            <!--    </button></a></br>-->
-                            <!--    <div class="date-icon-set">-->
-                            <!--        <input type="text" name="start" class="form-control" placeholder="From Date">-->
-                            <!--        <span class="search-link">-->
-                            <!--            <svg xmlns="http://www.w3.org/2000/svg" class="" width="20" fill="none"-->
-                            <!--                viewBox="0 0 24 24" stroke="currentColor">-->
-                            <!--                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"-->
-                            <!--                    d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                            <!--            </svg>-->
-                            <!--        </span>-->
-                            <!--    </div>-->
-                            <!--    <span class="flex-grow-0">-->
-                            <!--        <span class="btn">To</span>-->
-                            <!--    </span>-->
-                            <!--    <div class="date-icon-set">-->
-                            <!--        <input type="text" name="end" class="form-control" placeholder="To Date">-->
-                            <!--        <span class="search-link">-->
-                            <!--            <svg xmlns="http://www.w3.org/2000/svg" class="" width="20" fill="none"-->
-                            <!--                viewBox="0 0 24 24" stroke="currentColor">-->
-                            <!--                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"-->
-                            <!--                    d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                            <!--            </svg>-->
-                            <!--        </span>-->
-                            <!--    </div>-->
-                            <!--</div>-->
+                           
                         </div>
                     </div>
                     <div class="col-lg-8 col-md-12">
                         <div class="row">
-                            <!--<div class="col-md-4">-->
-                            <!--    <div class="card">-->
-                            <!--        <div class="card-body">-->
-                            <!--            <div class="d-flex align-items-center">-->
-                            <!--                <div class="">-->
-                            <!--                    <p class="mb-2 text-secondary">Total Profit</p>-->
-                            <!--                    <div class="d-flex flex-wrap justify-content-start align-items-center">-->
-                            <!--                        <h5 class="mb-0 font-weight-bold">$95,595</h5>-->
-                            <!--                        <p class="mb-0 ml-3 text-success font-weight-bold">+3.55%</p>-->
-                            <!--                    </div>-->
-                            <!--                </div>-->
-                            <!--            </div>-->
-                            <!--        </div>-->
-                            <!--    </div>-->
-                            <!--</div>-->
-                            <!--<div class="col-md-4">-->
-                            <!--    <div class="card">-->
-                            <!--        <div class="card-body">-->
-                            <!--            <div class="d-flex align-items-center">-->
-                            <!--                <div class="">-->
-                            <!--                    <p class="mb-2 text-secondary">Total Expenses</p>-->
-                            <!--                    <div class="d-flex flex-wrap justify-content-start align-items-center">-->
-                            <!--                        <h5 class="mb-0 font-weight-bold">$12,789</h5>-->
-                            <!--                        <p class="mb-0 ml-3 text-success font-weight-bold">+2.67%</p>-->
-                            <!--                    </div>-->
-                            <!--                </div>-->
-                            <!--            </div>-->
-                            <!--        </div>-->
-                            <!--    </div>-->
-                            <!--</div>-->
-                            <!--<div class="col-md-4">-->
-                            <!--    <div class="card">-->
-                            <!--        <div class="card-body">-->
-                            <!--            <div class="d-flex align-items-center">-->
-                            <!--                <div class="">-->
-                            <!--                    <p class="mb-2 text-secondary">New Users</p>-->
-                            <!--                    <div class="d-flex flex-wrap justify-content-start align-items-center">-->
-                            <!--                        <h5 class="mb-0 font-weight-bold">13,984</h5>-->
-                            <!--                        <p class="mb-0 ml-3 text-danger font-weight-bold">-9.98%</p>-->
-                            <!--                    </div>-->
-                            <!--                </div>-->
-                            <!--            </div>-->
-                            <!--        </div>-->
-                            <!--    </div>-->
-                            <!--</div>-->
+                           
                             <div class="col-md-12">
                                 <div class="card">
                             <div class="card-header d-flex justify-content-between">
@@ -272,95 +201,8 @@
                             <div class="card-body p-0">
                                 <div class="table-responsive">
                                     <center><h4>Coming Soon</h4></center>
-                                    <!--<table class="table table-spacing mb-0">-->
-                                    <!--    <tbody>-->
-                                    <!--        <tr class="white-space-no-wrap">-->
-                                    <!--            <td>-->
-                                    <!--                <h6 class="mb-0 text-uppercase text-secondary">-->
-                                    <!--                    <svg xmlns="http://www.w3.org/2000/svg" class="pr-2" width="30"-->
-                                    <!--                        fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
-                                    <!--                        <path stroke-linecap="round" stroke-linejoin="round"-->
-                                    <!--                            stroke-width="2"-->
-                                    <!--                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                                    <!--                    </svg>-->
-                                    <!--                    30 Jun, Tue-->
-                                    <!--                </h6>-->
-                                    <!--            </td>-->
-                                    <!--            <td class="pl-0 py-3">-->
-                                    <!--                Big Billion Day Sale-->
-                                    <!--            </td>-->
-                                    <!--        </tr>-->
-                                    <!--        <tr class="white-space-no-wrap">-->
-                                    <!--            <td>-->
-                                    <!--                <h6 class="mb-0 text-uppercase text-secondary">-->
-                                    <!--                    <svg xmlns="http://www.w3.org/2000/svg" class="pr-2" width="30"-->
-                                    <!--                        fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
-                                    <!--                        <path stroke-linecap="round" stroke-linejoin="round"-->
-                                    <!--                            stroke-width="2"-->
-                                    <!--                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                                    <!--                    </svg>-->
-                                    <!--                    09 July, Mon-->
-                                    <!--                </h6>-->
-                                    <!--            </td>-->
-                                    <!--            <td class="pl-0 py-3">-->
-                                    <!--                5% Off on Mobile-->
-                                    <!--            </td>-->
-                                    <!--        </tr>-->
-                                    <!--        <tr class="white-space-no-wrap">-->
-                                    <!--            <td>-->
-                                    <!--                <h6 class="mb-0 text-uppercase text-secondary">-->
-                                    <!--                    <svg xmlns="http://www.w3.org/2000/svg" class="pr-2" width="30"-->
-                                    <!--                        fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
-                                    <!--                        <path stroke-linecap="round" stroke-linejoin="round"-->
-                                    <!--                            stroke-width="2"-->
-                                    <!--                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                                    <!--                    </svg>-->
-                                    <!--                    15 Aug, Sun-->
-                                    <!--                </h6>-->
-                                    <!--            </td>-->
-                                    <!--            <td class="pl-0 py-3">-->
-                                    <!--                Electronics Sale-->
-                                    <!--            </td>-->
-                                    <!--        </tr>-->
-                                    <!--        <tr class="white-space-no-wrap">-->
-                                    <!--            <td>-->
-                                    <!--                <h6 class="mb-0 text-uppercase text-secondary">-->
-                                    <!--                    <svg xmlns="http://www.w3.org/2000/svg" class="pr-2" width="30"-->
-                                    <!--                        fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
-                                    <!--                        <path stroke-linecap="round" stroke-linejoin="round"-->
-                                    <!--                            stroke-width="2"-->
-                                    <!--                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                                    <!--                    </svg>-->
-                                    <!--                    26 Oct, Thu-->
-                                    <!--                </h6>-->
-                                    <!--            </td>-->
-                                    <!--            <td class="pl-0 py-3">-->
-                                    <!--                Fashionable Sale-->
-                                    <!--            </td>-->
-                                    <!--        </tr>-->
-                                    <!--        <tr class="white-space-no-wrap">-->
-                                    <!--            <td>-->
-                                    <!--                <h6 class="mb-0 text-uppercase text-secondary">-->
-                                    <!--                    <svg xmlns="http://www.w3.org/2000/svg" class="pr-2" width="30"-->
-                                    <!--                        fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
-                                    <!--                        <path stroke-linecap="round" stroke-linejoin="round"-->
-                                    <!--                            stroke-width="2"-->
-                                    <!--                            d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />-->
-                                    <!--                    </svg>-->
-                                    <!--                    25 Dec, Fri-->
-                                    <!--                </h6>-->
-                                    <!--            </td>-->
-                                    <!--            <td class="pl-0 py-3">-->
-                                    <!--                5% Off on Cloths-->
-                                    <!--            </td>-->
-                                    <!--        </tr>-->
-                                    <!--    </tbody>-->
-                                    <!--</table>-->
-
                                 </div>
-                                <!--<div class="d-flex justify-content-end align-items-center border-top-table p-3">-->
-                                <!--    <button class="btn btn-secondary btn-sm">See All</button>-->
-                                <!--</div>-->
+                               
                             </div>
                         </div>
                     </div>

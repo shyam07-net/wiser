@@ -6,31 +6,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-12">
-                <div class="card">
-                    <div class="card-header d-flex justify-content-between">
-                        <div class="header-title">
-                            <h4 class="card-title">Leaves</h4>
-                        </div>
-                        <div class="header-action">
-                            <button type="button" class="btn btn-primary mt-2 mr-2" data-toggle="modal" data-target="#exampleModalCenter">
-                                Add department
-                            </button></br>
-                        </div>
-                    </div>
-                    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-centered" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalCenterTitle">Apply Leaves</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <form action="{{url('/departmentsave')}}" method="POST" onsubmit="return Validation()">
-                                        @csrf
-                                        <div class="form-group">
-                                            <label for="type">Department code</label><span style="color:red">*</span>
+               <label for="type">Department code</label><span style="color:red">*</span>
                                             <input type="text" name="code" class="form-control" id="code">
                                             <span style="color:red" id="dcode"></span>
                                         </div>

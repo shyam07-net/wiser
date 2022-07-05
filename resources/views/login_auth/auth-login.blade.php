@@ -45,7 +45,7 @@
                         <h3 class="mb-3 font-weight-bold text-center">Sign In</h3>
                         <p class="text-center text-secondary mb-4">Log in to your account to continue</p>
                         <div class="social-btn d-flex justify-content-around align-items-center mb-4">
-                           <button class="btn btn-outline-light">
+                           {{-- <button class="btn btn-outline-light">
                               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="88.428 12.828 107.543 207.085">
                                     <path d="M158.232 219.912v-94.461h31.707l4.747-36.813h-36.454V65.134c0-10.658 2.96-17.922 18.245-17.922l19.494-.009V14.278c-3.373-.447-14.944-1.449-28.406-1.449-28.106 0-47.348 17.155-47.348 48.661v27.149H88.428v36.813h31.788v94.461l38.016-.001z" fill="#3c5a9a"/>
                               </svg>
@@ -66,7 +66,7 @@
                         </div>
                         <div class="mb-5">
                             <p class="line-around text-secondary mb-0"><span class="line-around-1">or login with email</span></p>
-                        </div>
+                        </div> --}}
 
 
                         <form method="post" action="auth">
@@ -89,9 +89,9 @@
                               </div>
                            </div>
                            <button type="submit" class="btn btn-primary btn-block mt-2" name="submit">Log In</button>
-                           <div class="col-lg-12 mt-3">
+                           {{-- <div class="col-lg-12 mt-3">
                                 <p class="mb-0 text-center">Don't have an account? <a href="auth-sign-up.html">Sign Up</a></p>
-                           </div>
+                           </div> --}}
                         </form>
                      </div>
                   </div>

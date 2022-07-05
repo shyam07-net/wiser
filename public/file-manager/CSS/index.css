@@ -1,0 +1,32 @@
+/**************************************Profile page for every department *****************/
+#profile-pic{
+ display:none;
+ width:100%;   
+ height:auto;
+ margin:0;
+}
+#profile-pic #update-image-div{
+  width:100%;
+  min-height:60px;
+  margin:0;
+  padding:0;
+  
+}
+#profile-pic #update-image-div #file{
+ width:50%;
+ margin-left:20%   
+}
+#profile-pic #update-image-div #update-btn{
+  width:16%;  
+}
+#profile-pic span{
+    color:red;
+    text-align:center;
+   width:100%;
+   padding-left:60px;
+}
+.pi-error{
+    color:red;
+    margin-left:110px;
+}
+/**************************************Profile page for every department *****************/

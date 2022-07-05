@@ -66,35 +66,6 @@
                 <nav class="iq-sidebar-menu">
                     <ul id="iq-sidebar-toggle" class="side-menu">
   
-<!--                        <li class="active sidebar-layout">-->
-<!--                            <a class="svg-icon">-->
-<!--                                <i class="">-->
-                                 
-<!--                                    <svg xmlns="http://www.w3.org/2000/svg" width="18" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">-->
-<!--  <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />-->
-<!--</svg>-->
-<!--                                </i>-->
-                               
-<!--                              <span class="ml-2"id="timer" title="Total login time">-->
-                                   
-<!--                                </span> -->
-                                
-<!--                                <select name="dog-names" id="dog-names">-->
-<!--    <option></option>-->
-<!--    <option id="timer" ></option>-->
-<!--    <option id="tim"></option>-->
-<!--    <option id="time" ></option>-->
-<!--    <option  id="123" ></option>-->
-<!--    </select>-->
-
-                                
-
-  
-
-
-                                
-<!--                            </a>-->
-<!--                        </li>-->
 
  <li class="sidebar-layout">
                             <a href="#app3" class="collapsed svg-icon" data-toggle="collapse" aria-expanded="false">
